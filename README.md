@@ -17,6 +17,8 @@
 
 - 🧑‍💻 &nbsp;Project to be proud of: [Social Media App](https://github.com/Mohamed-Gibreel/Social-App-Client)
 
+<br><br>
+
 ---
 
 <div align = "center">
