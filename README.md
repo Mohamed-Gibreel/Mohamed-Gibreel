@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gibreel</h1>
 <h3 align="center">A passionate full stack mobile/web developer</h3>
 
-- 🔭 I’m currently working on [stylish](https://github.com/Mohamed-Gibreel/Stylish)
+- 🔭 I’m currently working on [Stylish](https://github.com/Mohamed-Gibreel/Stylish)
 
 - 🌱 I’m currently learning **NextJS, NestJS and BLoC pattern in Flutter.**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-gibreel.github.io](https://mohamed-gibreel.github.io)
-
-- 📝 I regularly write articles on [N/A](N/A)
+- 👨‍💻 All of my projects are available at [portfolio.](https://mohamed-gibreel.github.io)
 
 - 💬 Ask me about **Flutter, ReactJS, NodeJS, MongoDB, OracleSQL**
 
 - 📫 How to reach me **m.adilgibreel@gmail.com**
 
-- 📄 Know about my experiences [https://mohamed-gibreel.github.io/resources/Resume.pdf](https://mohamed-gibreel.github.io/resources/Resume.pdf)
+- 📄 Know about my experiences [here!](https://mohamed-gibreel.github.io/resources/Resume.pdf)
 
 - ⚡ Fun fact **I am a competitive racing driver (F1, Assetto Corsa, Gran Turismo, Go Karting IRL)**
 
