@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [here!](https://mohamed-gibreel.github.io/resources/Resume.pdf)
 
-- ⚡ Fun fact **I am a competitive racing driver (F1, Assetto Corsa, Gran Turismo, Go Karting IRL)**
+- ⚡ Fun fact **I am a competitive esports racing driver (F1, Assetto Corsa, Gran Turismo, Go Karting IRL)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
