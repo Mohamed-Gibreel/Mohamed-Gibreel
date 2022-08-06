@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio.](https://mohamed-gibreel.github.io)
 
-- 💬 Ask me about **Flutter, ReactJS, NodeJS, MongoDB, OracleSQL, JavaScript, HTML, CSS**
+- 💬 Ask me about **Flutter, ReactJS, TailwindCSS, AWS Services, NodeJS, ExpressJS, MongoDB, OracleSQL, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **mohamed@gibreel.dev**
 
