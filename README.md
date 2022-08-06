@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Stylish](https://github.com/Mohamed-Gibreel/Stylish)
 
-- 🌱 I’m currently learning **NextJS, NestJS and BLoC pattern in Flutter.**
+- 🌱 I’m currently learning **React Native, and BLoC pattern in Flutter.**
 
 - 👨‍💻 All of my projects are available at [portfolio.](https://mohamed-gibreel.github.io)
 
-- 💬 Ask me about **Flutter, ReactJS, NodeJS, MongoDB, OracleSQL**
+- 💬 Ask me about **Flutter, ReactJS, NodeJS, MongoDB, OracleSQL, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **m.adilgibreel@gmail.com**
+- 📫 How to reach me **mohamed@gibreel.dev**
 
 - 📄 Know about my experiences [here!](https://mohamed-gibreel.github.io/resources/Resume.pdf)
 
-- ⚡ Fun fact **I am a competitive esports racing driver (F1, Assetto Corsa, Gran Turismo, Go Karting IRL)**
+- ⚡ Fun fact **I am a very competitive person in esports espically in racing games (F1, Assetto Corsa, Gran Turismo, Go Karting IRL)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
