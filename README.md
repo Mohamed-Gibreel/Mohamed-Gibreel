@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gibreel</h1>
 <h3 align="center">A passionate full stack mobile/web developer</h3>
 
-- 🔭 I’m currently working on a [Deliveroo Clone] using React Native.([https://github.com/Mohamed-Gibreel/Stylish](https://github.com/Mohamed-Gibreel/deliveroo-clone-react-native))
+- 🔭 I’m currently working on a [Deliveroo Clone](https://github.com/Mohamed-Gibreel/deliveroo-clone-react-native) using React Native.
 
 - 🌱 I’m currently learning **React Native, and BLoC pattern in Flutter.**
 
