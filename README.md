@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gibreel</h1>
-<h3 align="center">A passionate full stack mobile/web developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on a [Deliveroo Clone](https://github.com/Mohamed-Gibreel/deliveroo-clone-react-native) using React Native.
+- 🔭 I’m currently working on a [Bookmark System](https://github.com/Mohamed-Gibreel/nestjs-basic) using NestJS, Prisma & Docker.
 
-- 🌱 I’m currently learning **React Native, and BLoC pattern in Flutter.**
+- 🌱 I’m currently learning **Docker, DevOps and BLoC pattern in Flutter.**
 
 - 👨‍💻 All of my projects are available at [portfolio.](https://mohamed-gibreel.github.io)
 
-- 💬 Ask me about **Flutter, ReactJS, TailwindCSS, AWS Services, NodeJS, ExpressJS, MongoDB, OracleSQL, JavaScript, HTML, CSS**
+- 💬 Ask me about **Flutter, ReactJS, TailwindCSS, AWS Services, Docker, NodeJS, ExpressJS, MongoDB, OracleSQL, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **mohamed@gibreel.dev**
 
 - 📄 Know about my experiences [here!](https://mohamed-gibreel.github.io/resources/Resume.pdf)
 
-- ⚡ Fun fact **I am a very competitive person in esports espically in racing games (F1, Assetto Corsa, Gran Turismo, Go Karting IRL)**
+- ⚡ Fun fact **I enjoy playing racing simulators such as F1, Assetto Corsa, Gran Turismo.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
